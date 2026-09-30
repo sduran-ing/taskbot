@@ -2,8 +2,7 @@
 
 ## Description
 
-QMS Platform is a web application that helps organizations manage ISO 9001:2015 compliance, tracking documents, audits, findings and corrective actions through their full lifecycle. The application is designed to motivate users with an achievements system and points per each relevant activity performed (gamification).
-
+Python desktop chatbot application that helps users manage tasks through natural language conversation. The app uses Natural Language Processing (NLP) and Machine Learning to translate everyday text commands into structured database actions.
 ---
 
 ## Questions
