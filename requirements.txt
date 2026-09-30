@@ -1,0 +1,5 @@
+PyQt6==6.7.0
+nltk==3.9.1
+scikit-learn==1.5.2
+bcrypt==4.2.0
+numpy==2.1.2
